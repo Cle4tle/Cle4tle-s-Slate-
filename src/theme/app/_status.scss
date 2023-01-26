@@ -148,12 +148,12 @@
 		rx: 50;
 		&[height='15'],
 		&[height='10'] {
-			width: 11px;
-			height: 11px;
+			width: 15px;
+			height: 15px;
 			x: 24.5px;
 			y: 24.5px;
 			&[mask*='mobile'] {
-				height: 18px;
+				height: 20px;
 				y: 17px;
 			}
 		}
@@ -168,13 +168,13 @@
 		&[mask*='online'] {
 			fill: rgb(var(--status-green));
 		}
-		&[fill='#faa61a'],
-		&[fill='rgb(250, 166, 26, 1)'],
+		&[fill='#ffef14'],
+		&[fill='rgb(255, 239, 20, 1)'],
 		&[mask*='idle'] {
 			fill: rgb(var(--status-yellow));
 		}
-		&[fill='#f04747'],
-		&[fill='rgb(240, 71, 71, 1)'],
+		&[fill='#ff0000'],
+		&[fill='rgb(255, 0, 0, 1)'],
 		&[mask*='dnd'] {
 			fill: rgb(var(--status-red));
 		}
