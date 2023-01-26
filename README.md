@@ -1,7 +1,8 @@
 <h1 align="center">Slate</h1>
 <p align="center">An optimized, consistent, and functional theme for Discord based on GitHub's design language.</p>
+<p align="center">Customised by Cle4tle to be more friendly to his eyes.</p>
 
-![](https://i.imgur.com/GEcQZhN.png)
+
 
 ---
 
