@@ -7,12 +7,10 @@
 
 ## Features
 
-- Light Mode Support
-- Compact Mode Support
-- Extremely flexible and customizable, with a wide array of CSS variables.
-- Full app coverage, 10k+ Lines
-- [USRBG](http://github.com/discord-Custom-Covers/usrbg/) Integration
-- Consistent layout and design
+- mostly similar to original slate
+- status dot enlarged
+- mobile status enlarged
+- idle colour changed to a brighter yellow
 
 ## Developers & Contributors
 
